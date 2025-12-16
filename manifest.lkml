@@ -9,5 +9,5 @@ project_name: "testvinay25"
 
 remote_dependency: test {
   url: "git@github.com:vinayssss/TESTVINAYYYYY2518.git"
-  ref: "main"
+  ref: "master"
 }
